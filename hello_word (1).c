@@ -1,6 +1,6 @@
 #include <stdio.h> // utilizar função printf
 
-//arquivo função principal do progrma
+//arquivo função principal do programa
 //todo progrma em c deve ter esta função 
 int main(void)
 {
